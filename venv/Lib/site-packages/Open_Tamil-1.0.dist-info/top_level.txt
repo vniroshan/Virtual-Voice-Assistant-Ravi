@@ -1,0 +1,12 @@
+kural
+ngram
+solthiruthi
+spell
+tabraille
+tamil
+tamilmorse
+tamilsandhi
+tamilstemmer
+tamiltts
+transliterate
+valai
